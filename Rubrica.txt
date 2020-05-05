@@ -1,0 +1,20 @@
+PUNTOS IMPLEMENTADOS:
+-Creacion del terrain, texturizado y con vegetacion
+
+-2 Pelotas con fisicas que pueden chocar entre ellas
+
+-Modo disco con luces y ciclo dia/noche (sequence)
+
+-Usar en el Level Blueprint para lanzar/testear algunas de las
+funcionalidades creadas
+
+-Que todas las entradas nuevas de Input (crear al menos 2) deberán estar
+mapeadas con Actions/Axis en vez de por eventos directos de
+teclado/mouse.
+
+-Hud con contador de items y temporizador
+
+-Creado un montage en el que se aplique su animación solo a los brazos del
+player (ThirdpersoRun 2)
+
+
